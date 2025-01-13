@@ -1,5 +1,6 @@
-## Hi there 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23fff&width=435&lines=Oi%2C+Alecsandro+Aqui+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+Atualmente eu estou apenas desenvolvendo projetos pessoais e educacionais,
 <!--
 **AlecsandroDev/AlecsandroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
